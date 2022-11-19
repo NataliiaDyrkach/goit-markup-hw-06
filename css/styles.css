@@ -781,6 +781,7 @@ button {
   position: absolute;
   top: 2px;
   left: 1px;
+  fill: var(--primary-white-color);
 }
 
 .form-checkbox input:checked + .checkbox-label::before {
